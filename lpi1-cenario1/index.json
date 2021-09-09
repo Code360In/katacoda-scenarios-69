@@ -2,12 +2,13 @@
   "title": "Exercicio 01 - 103.1 LPIC-1",
   "description": "",
   "difficulty": "Beginner",
-  "time": "15 minutes",
+  "time": "30 minutes",
   "details": {
     "steps": [
       {
         "title": "Passo 1",
-        "text": "step1.md"
+        "text": "step1.md",
+        "verify": "verify_1.sh"
       },
       {
         "title": "Passo 2",
