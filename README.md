@@ -1,6 +1,6 @@
 # Interactive Katacoda Scenarios
 
-[![](http://shields.katacoda.com/katacoda/lsf-cursos/count.svg)](https://www.katacoda.com/daviaraujo "Get your profile on Katacoda.com")
+[![](http://shields.katacoda.com/katacoda/lsf-cursos/count.svg)](https://www.katacoda.com/lsf-cursos "Get your profile on Katacoda.com")
 
 Visit https://www.katacoda.com/lsf-cursos to view the profile and interactive scenarios
 
