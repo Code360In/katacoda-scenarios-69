@@ -1,0 +1,34 @@
+{
+  "title": "Exercícios LPIC-1 103.1",
+  "description": "teste",
+  "difficulty": "Beginner",
+  "time": "1 hour",
+  "details": {
+    "steps": [
+      {
+        "title": "Questão 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Questão 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Questão 3",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
