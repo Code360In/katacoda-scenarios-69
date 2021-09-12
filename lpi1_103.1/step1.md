@@ -5,12 +5,10 @@ Informe os valores presentes no seu ambiente atual.
 =~= /root/.bash_history
 
 >>Q2: O release do kernel instalado <<
-( ) 4.4.0-200
-( ) 5.0.0-100
-(*) 4.4.0-193-generic
+=== 4.15.0-122-generic
 
 >>Q3: Os diretórios incluídos em seu PATH <<
-=== /root/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+=== /root/go/bin:/usr/local/go/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/root/.dotnet/tools
 
 >>Q4: O hostname da máquina <<
 =~= host01
