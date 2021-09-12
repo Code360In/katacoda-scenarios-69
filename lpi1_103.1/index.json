@@ -19,8 +19,7 @@
       {
         "title": "Questão 3",
         "text": "step3.md",
-        "answer": "step3_answer.md",
-        "verify": "step3_verify.sh"
+        "answer": "step3_answer.md"
       }
     ],
     "intro": {
