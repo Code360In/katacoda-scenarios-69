@@ -1,6 +1,6 @@
 #!/bin/bash
   
-if [ -z $NOME ]
+if [[ -z "${NOME}" ]];
 then
   exit 1
 else

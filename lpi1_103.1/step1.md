@@ -14,7 +14,10 @@ Informe os valores presentes no seu ambiente atual.
 =~= host01
 
 >>Q5: Comando para verificar o PID atual<<
-=~= echo $$
+[*] echo $$
+[*] ps |grep bash
+[ ] echo $!
+[ ] 
 
 >>Q6: A localização do comando tar<<
 =~= /bin/tar
