@@ -1,10 +1,8 @@
 #!/bin/bash
-
-nome=$(env | grep NOME)
-
-if [test -z $nome] 
+  
+if [ -z $NOME ]
 then
-exit 1
+  exit 1
 else
-echo "Done"
+  echo "Done"
 fi
