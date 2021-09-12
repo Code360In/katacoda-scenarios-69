@@ -13,8 +13,7 @@
       {
         "title": "Questão 2",
         "text": "step2.md",
-        "answer": "step2_answer.md",
-        "verify": "step2_verify.sh"
+        "answer": "step2_answer.md"
       },
       {
         "title": "Questão 3",

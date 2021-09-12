@@ -17,7 +17,7 @@ Informe os valores presentes no seu ambiente atual.
 [*] echo $$
 [*] ps |grep bash
 [ ] echo $!
-[ ] 
+[ ] echo $BASHPID
 
 >>Q6: A localização do comando tar<<
 =~= /bin/tar
