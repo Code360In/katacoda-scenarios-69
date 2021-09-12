@@ -1,21 +1,26 @@
 {
   "title": "Exercícios LPIC-1 103.1",
-  "description": "teste",
+  "description": "Exercícios para Preparatório LPIC-1",
   "difficulty": "Beginner",
   "time": "1 hour",
   "details": {
     "steps": [
       {
         "title": "Questão 1",
-        "text": "step1.md"
+        "text": "step1.md",
+        "answer": "step1_answer.md"
       },
       {
         "title": "Questão 2",
-        "text": "step2.md"
+        "text": "step2.md",
+        "answer": "step2_answer.md",
+        "verify": "step2_verify.sh"
       },
       {
         "title": "Questão 3",
-        "text": "step3.md"
+        "text": "step3.md",
+        "answer": "step3_answer.md",
+        "verify": "step3_verify.sh"
       }
     ],
     "intro": {

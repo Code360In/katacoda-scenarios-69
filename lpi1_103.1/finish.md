@@ -1,0 +1,1 @@
+Parabéns, você completou o cenário com todas as questões respondidas corretamente.

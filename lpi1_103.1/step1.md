@@ -1,4 +1,4 @@
-####Informe os valores presentes no seu ambiente atual.
+Informe os valores presentes no seu ambiente atual.
 
 
 >>Q1: O caminho completo do arquivo .bash_history para o seu usuário atual <<
