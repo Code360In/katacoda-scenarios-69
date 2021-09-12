@@ -1,0 +1,33 @@
+{
+  "title": "Exercícios LPIC-1 103.2",
+  "description": "Exercícios para Preparatório LPIC-1",
+  "difficulty": "Beginner",
+  "time": "1 hour",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md",
+        "answer": "step1_answer.md",
+        "verify": "step1_verify.sh"
+      },
+      {
+        "title": "Step 2",
+        "answer": "step2_answer.md",
+        "text": "step2.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
